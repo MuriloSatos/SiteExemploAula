@@ -1,6 +1,7 @@
 #{
     background-color: #4CAF50;
-    color: yellow;
-    padding: 16px;
-    text-align: center;
+}
+
+article {
+    color:blue
 }
